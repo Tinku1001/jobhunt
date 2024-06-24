@@ -12,6 +12,7 @@ A text-editor is added with functionalities of bold,italic,etc and image section
 User can reply the same thing as well at the same time.
 
 This website is fullt responsive..
+Visit the https://jobhunt-bice.vercel.app/
 
 
 
